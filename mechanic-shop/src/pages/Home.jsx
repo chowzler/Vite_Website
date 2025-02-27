@@ -8,7 +8,7 @@ const Home = () => {
   };
   
   const styles = {
-    container: { textAlign: "center", marginTop: "50px" }
+    container: { textAlign: "center", marginTop: "50px", height:"1000px"}
   };
   
   export default Home;

@@ -7,7 +7,7 @@ const Footer = () => {
   };
   
   const styles = {
-    footer: { textAlign: "center", padding: "1rem", background: "#333", color: "#fff", marginTop: "20px" }
+    footer: { textAlign: "center", padding: "1rem", background: "#333", color: "#fff", marginBottom: "0px" }
   };
   
   export default Footer;
