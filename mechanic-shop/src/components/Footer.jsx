@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
       <footer style={styles.footer}>
-        <p>&copy; 2025 Mechanic Shop | All Rights Reserved</p>
+        <p>&copy; 2025 Reliance Automotive | All Rights Reserved</p>
       </footer>
     );
   };

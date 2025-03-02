@@ -1,0 +1,23 @@
+.product-card {
+    background: black;
+    color: white;
+    padding: 10px;
+    text-align: left;
+    width: 30%;
+    /* height: 10%; */
+    /* aspect-ratio: 1/2; */
+    border-radius: 10px;
+  }
+  
+  .product-image {
+    width: 100%;
+
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  .product-info {
+    padding-top: 10px;
+  }
+  

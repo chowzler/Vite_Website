@@ -1,0 +1,13 @@
+/* .container{
+    width: 100%;
+    height: 70%;
+    background-image: "/src/assets/AI_BMW_GARAGE.jpeg";
+    background-size: cover;
+    background-color: black;
+} */
+
+.container {
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 50px;
+  }
